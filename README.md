@@ -5,7 +5,7 @@
 1. **Create Your Configuration File**  
    Copy the example configuration file to create your own configuration:
    ```bash
-   cp darkpool-client/config.yaml.example darkpool-client/config.yaml
+   cp data/config.yaml.example data/config.yaml
    ```
 
 2. **Start the Service**  
